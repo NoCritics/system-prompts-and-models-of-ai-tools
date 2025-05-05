@@ -32,7 +32,7 @@
 Check out **[ZeroLeaks](https://0leaks.vercel.app)**, a service designed to help startups **identify and secure** leaks in system instructions, internal tools, and model configurations. **Get a free AI security audit** to ensure your AI is protected from vulnerabilities.
 
 
-*The company is mine, this is not a 3rd party AD.
+**The company is mine, this is NOT a 3rd party AD.*
 ---
 
 ## 🛠 **Roadmap & Feedback**
@@ -40,7 +40,7 @@ Check out **[ZeroLeaks](https://0leaks.vercel.app)**, a service designed to help
 🚨 **Note:** We no longer use GitHub issues for roadmap and feedback.  
 Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) to share your suggestions and track upcoming features.
 
-🆕 **LATEST UPDATE:** 24/04/2025 
+🆕 **LATEST UPDATE:** 30/04/2025 
 
 ## 📊 **Star History**
 
